@@ -1,0 +1,12 @@
+#Everything is ignored
+*.*
+
+#Except the following
+#Add whatever is necessary to be commited here
+!.gitignore
+!site.json
+!elements/images/background/*
+!elements/images/logo/*
+!elements/images/sensepi/*
+!elements/images/team/*
+!elements/images/icon/facicon.ico
