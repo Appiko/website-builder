@@ -9,4 +9,8 @@
 !elements/images/logo/*
 !elements/images/sensepi/*
 !elements/images/team/*
-!elements/images/icon/facicon.ico
+!elements/images/icon/*
+!elements/images/sensebe/*
+!elements/images/setup/*
+!elements/css/custom.css
+!elements/export/header.html
